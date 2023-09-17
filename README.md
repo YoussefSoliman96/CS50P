@@ -3,7 +3,7 @@ Harvard University | CS50's Introduction to Programming with Python (All problem
 
 10 of 10 weeks complete.
 Week 0
- Indoor Voice\n
+ Indoor Voice -
  Playback Speed
  Making Faces
  Einstein
