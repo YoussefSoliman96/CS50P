@@ -1,0 +1,4 @@
+pip-installable libraries:
+
+1- pandas (https://pandas.pydata.org/)
+2- tabulate (https://pypi.org/project/tabulate/)
